@@ -1,5 +1,5 @@
 # ChatApp
-Simple Chat Application made with django, websockets and rabitmq.
+Simple Chat Application made with django, websockets and rabbitmq.
 
 ## Set Up and Installation (Must have Python3)
 
